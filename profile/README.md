@@ -1,7 +1,7 @@
-# PrsmarineMC Team
+PrsmarineMC Team [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/twitter-singular_64h.png?raw=true" width="32px"></img>](https://twitter.com/TeamPrismarine)
+=
 
 ### 한국어 (Korean)
-#### [디스코드](https://discord.gg/kkqMSEVVxN) - [네이버 카페](https://cafe.naver.com/Prismarine) | [MDD](https://discord.gg/AZwXTA9Pgx) - [MCC](https://discord.gg/nnkecH6n24) - [혜아의 팬디코](https://discord.gg/ByHmmDSr4m)
 
 PrismarineMC Team은 더 빠르고 안전하고 쉽게 수정할 수 있는 소프트웨어를 개발하여 Minecraft의 생태계를 개선하기위해 노력하고 있는 단체입니다.
 
@@ -12,7 +12,6 @@ PrismarineMC Team은 더 빠르고 안전하고 쉽게 수정할 수 있는 소�
    - 채팅 신고 기능을 비활성화 할 수 있습니다. ([#saveminecraft](https://saveminecraft.org))
 
 ### English
-#### [Discord](https://discord.gg/CQGVqeXQQC) - [Reddit](https://reddit.com/r/Prismarine)
 
 PrismarineMC Team is a group that develop faster, safer, easy-edit software and try to make Minecraft's system clean.
 
@@ -21,3 +20,6 @@ PrismarineMC Team is a group that develop faster, safer, easy-edit software and 
    - We offer more stable, faster experience because we renewed famous Paper fork bukkits and unstable bukkit and united them.
    - We offer Fastest upstream by using Github Action which upstream automatically.
    - We can disable chatting report. ([#saveminecraft](https://saveminecraft.org))
+
+[<img src="https://discord.com/api/guilds/781822976773455882/widget.png?style=banner3"></img>](https://discord.gg/kkqMSEVVxN)
+[<img src="https://discord.com/api/guilds/1003295972203429949/widget.png?style=banner3"></img>](https://discord.gg/CQGVqeXQQC)
