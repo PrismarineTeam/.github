@@ -1,4 +1,4 @@
-PrsmarineMC Team [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/twitter-singular_64h.png?raw=true" width="32px"></img>](https://twitter.com/TeamPrismarine)
+<!---PrsmarineMC Team [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/twitter-singular_64h.png?raw=true" width="32px"></img>](https://twitter.com/TeamPrismarine)
 =
 
 ### 한국어 (Korean)
@@ -23,3 +23,5 @@ PrismarineMC Team is a group that develop faster, safer, easy-edit software and 
 
 [<img src="https://discord.com/api/guilds/781822976773455882/widget.png?style=banner3"></img>](https://discord.gg/kkqMSEVVxN)
 [<img src="https://discord.com/api/guilds/1003295972203429949/widget.png?style=banner3"></img>](https://discord.gg/CQGVqeXQQC)
+--->
+Inactive
